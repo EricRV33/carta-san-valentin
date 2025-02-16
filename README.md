@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Importante para responsive design -->
   <title>Carta de San Valentín</title>
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/EricRV33/carta-san-valentin/refs/heads/master/carta-main/style.css"> 
+  <link rel="stylesheet" href="https://raw.githubusercontent.com/EricRV33/carta-san-valentin/refs/heads/master/style.css"> 
   <script src="https://cdn.jsdelivr.net/npm/fireworks-js@2.x/dist/index.umd.js"></script>
   <script src="https://unpkg.com/fireworks-js@2.x/dist/index.umd.js"></script>
 </head>
